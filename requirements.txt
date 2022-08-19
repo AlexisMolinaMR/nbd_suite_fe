@@ -1,1 +1,9 @@
 rdkit-pypi
+scopy
+sklearn
+pandas
+streamlit
+joblib
+stmol
+py3Dmol
+
