@@ -1,1 +1,1 @@
-obabel
+openbabel
