@@ -6,4 +6,4 @@ streamlit
 joblib
 stmol
 py3Dmol
-
+matplotlib
