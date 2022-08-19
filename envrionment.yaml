@@ -1,6 +1,4 @@
 name: nbdsuite
-channels:
- - conda-forge
 dependecies:
  - rdkit
  - scopy
