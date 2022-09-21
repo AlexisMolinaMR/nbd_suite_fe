@@ -93,6 +93,26 @@ def render_lig(xyz):
 def main():
 
     html_temp = """
+    <style>
+        #MainMenu {visibility: hidden;}
+        input[type="text"], input[type="number"]{border-radius: 0;padding: 0.375rem 0.75rem;font-size: 1rem;font-weight: 400;line-height: 1.5;color: #495057;background-color: #fff;background-clip: padding-box;border: 1px solid #b9b9b8;}
+        .css-demzbm {background-color: #006c7b;}
+        .css-demzbm:focus {box-shadow: #006c7b80 0px 0px 0px 0.2rem;}
+        .st-ds {border-bottom-color: #006c7b;}
+        .st-dr {border-top-color: #006c7b;}
+        .st-dq {border-right-color: #006c7b;}
+        .st-dp {border-left-color: #006c7b;}
+        .step-down, .step-up {background-color: transparent;border: 1px solid #b9b9b8;border-radius: 0!important;border-left: 0;}
+        .css-1cndplc {height: 38px;}
+        .step-down:hover:enabled, .step-down:focus:enabled {background-color: #006c7b;}
+        .step-up:hover:enabled, .step-up:focus:enabled {background-color: #006c7b;}
+        .css-1cpxqw2 {border-radius: 50px;border-color: #006c7b;color: #006c7b;}
+        .css-1cpxqw2:hover {background-color: #006c7b;color: #fff;border-color: #006c7b;}
+        .css-1cpxqw2:focus:not(:active) {border-color: #006c7b;color: #006c7b;}
+        .css-1cpxqw2:focus {box-shadow: rgb(0 108 123 / 50%) 0px 0px 0px 0.2rem;outline: none;}
+        .css-1cpxqw2:hover:focus{color: #fff;}
+        .css-1cpxqw2:active {color: rgb(255, 255, 255);border-color: #006c7b;background-color: #006c7b;}
+        </style>
     <center>
     <img src="https://www.asebio.com/sites/default/files/2020-01/NBD_highres.png" alt="nbd_logo" style="width:300px;height:120px;">
     </center>
